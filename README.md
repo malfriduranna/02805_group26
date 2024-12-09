@@ -1,3 +1,5 @@
+**Understanding User Perceptions of Movies: A Sentiment and Network Analysis of Reviews, Ratings, and Genres**
+
 This repository is for the final project in the course 02805 at DTU. 
 
 Authors:
@@ -6,7 +8,6 @@ Authors:
 
 - Valgerdur Asgeirsdottir, s242685
 
-**Understanding User Perceptions of Movies: A Sentiment and Network Analysis of Reviews, Ratings, and Genres**
 
 # Setting up the datasets
 
